@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CarXmlParser:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CarXmlParser_jar</output-path>
+    <root id="archive" name="CarXmlParser.jar">
+      <element id="module-output" name="CarXmlParser" />
+    </root>
+  </artifact>
+</component>
